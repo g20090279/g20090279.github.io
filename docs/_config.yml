@@ -47,8 +47,3 @@ search:
   button: false
   # Focus the search input by pressing `ctrl + focus_shortcut_key` (or `cmd + focus_shortcut_key` on macOS)
   focus_shortcut_key: 'k'
-
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
-
