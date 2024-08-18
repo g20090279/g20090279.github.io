@@ -1,8 +1,7 @@
 title: Zekai's Blog
 description: Keep Learning
 theme: just-the-docs
-baseurl: ""
-url: "https://g20090279.github.io" # the base hostname & protocol for your site
+url: "https://g20090279.github.io/docs" # the base hostname & protocol for your site
 repositiory: g20090279/g20090279.github.io
 
 permalink: pretty
