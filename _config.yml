@@ -1,0 +1,11 @@
+title: My Docs Site
+description: Documentation powered by Just the Docs
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Optional configuration
+color_scheme: light
+search_enabled: true
+
