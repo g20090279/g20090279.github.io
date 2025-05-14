@@ -1,5 +1,5 @@
-title: My Docs Site
-description: Documentation powered by Just the Docs
+title: ZEKAI Docs
+description: Documenting & Sharing
 remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
@@ -9,4 +9,5 @@ plugins:
 # Optional configuration
 color_scheme: light
 search_enabled: true
+  
 

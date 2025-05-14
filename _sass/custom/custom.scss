@@ -1,0 +1,14 @@
+@media (min-width: 50rem) {
+    .main {
+        max-width: 100rem;
+    }
+}
+
+@media (min-width: 66.5rem) {
+  .side-bar {
+    width: calc((100% - 100rem) / 2 + 16.5rem);
+  }
+  .side-bar + .main {
+    margin-left: max(16.5rem, (100% - 100rem) / 2 + 16.5rem);
+  }
+}
